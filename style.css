@@ -9,18 +9,18 @@
 
 :root {
     /* Cores principais - Tema Tech Moderno */
-    --primary: #921087;
-    --secondary: #7b2cbf;
+    --primary: #9c5897;
+    --secondary: #9d6bc9;
     --accent: #dd0f98;
     --dark: #301e33;
     --darker: #1e1422;
     --light: #e0e0e0;
-    --gray: #876b94;
+    --gray: #9d85a8;
     --card-bg: rgba(255, 255, 255, 0.03);
     
     /* Gradientes */
-    --gradient-1: linear-gradient(135deg, #921087 0%, #7b2cbf 100%);
-    --gradient-2: linear-gradient(45deg, #DD0F98 0%, #7B2CBF 100%);
+    --gradient-1: linear-gradient(135deg, #af61a9 0%, #977caf 100%);
+    --gradient-2: linear-gradient(45deg, #dd84bf 0%, #9a76b9 100%);
     
     /* Fontes */
     --font-main: 'Segoe UI', system-ui, -apple-system, sans-serif;
